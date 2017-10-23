@@ -1,12 +1,10 @@
 # Nginx cache Test
 
-Reproduction of [ISUCON7](http://isucon.net/archives/50949022.html) environment.
-
-So, Nginx deliver many images.
+Reproduction of [ISUCON7](http://isucon.net/archives/50949022.html) environment (Nginx deliver many images).
 
 ## Prepare
 
-Get Instagram account , use [knok/instagram-food-images](https://github.com/knok/instagram-food-images).
+Get many images by Instagram, use [knok/instagram-food-images](https://github.com/knok/instagram-food-images).
 
 ```
 $ cd icons
